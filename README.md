@@ -1,4 +1,4 @@
-<h1 align="center"> 🌠: Star Wars Wiki </h1>
+<h1 align="center"> 🌠 Star Wars Wiki </h1>
 
 <hr/>
 <p align="center">
