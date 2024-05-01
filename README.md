@@ -14,7 +14,7 @@
 
 
 ## :memo: Descrição
-Projeto elaborado visando colocar em prática os conteúdos aprendidos na Faculdade de Análise de Desenvolvimento de Sistema, pegando um assunto de meu gosto e transformando o mesmo em um projeto passado para o Javascript afim de testar minhas capacidades de Programação até o devido momento do curso.
+Projeto elaborado visando colocar em prática os conteúdos aprendidos na Faculdade de Análise de Desenvolvimento de Sistemas, pegando um assunto de meu gosto e transformando o mesmo em um projeto passado para o Javascript afim de testar minhas capacidades de Programação até o devido momento do curso.
 ## :white_check_mark: Funcionalidades
 - Cards de todos os personagens,planetas e naves do universo de Star Wars.
 - O site pega as informações da API do Star Wars, dando todas as informações necessárias sobre cada um dos cards selecionado.
